@@ -10,7 +10,7 @@ Wrapper for https://cardanodocs.com/technical/explorer/api/#path--api-blocks-pag
 npm instal cardano-explorer-api
 ```
 
-## Usage
+## Usage
 
 Initialize with optional options `endpoint` and `debug`. Default Endpoint: [https://cardanoexplorer.com/api](https://cardanoexplorer.com/api).
 
