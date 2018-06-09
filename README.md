@@ -7,7 +7,7 @@ Wrapper for https://cardanodocs.com/technical/explorer/api/ using promises.
 ## Install
 
 ```
-npm instal cardano-explorer-api
+npm i cardano-explorer-api
 ```
 
 ## Usage
