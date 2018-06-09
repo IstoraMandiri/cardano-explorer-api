@@ -2,7 +2,7 @@
 
 ### Isomorphic Javascript Interface for `cardano-explorer`
 
-Wrapper for https://cardanodocs.com/technical/explorer/api/#path--api-blocks-pages using promises.
+Wrapper for https://cardanodocs.com/technical/explorer/api/ using promises.
 
 ## Install
 
